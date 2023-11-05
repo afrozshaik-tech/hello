@@ -11,3 +11,4 @@ git branch (to see what is my branch)
 git branch -M master
 git push -u origin master (now file is pushed)
 git log
+git auth
