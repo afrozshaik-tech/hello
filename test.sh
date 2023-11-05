@@ -9,6 +9,5 @@ git commit -m "message" (commit:- this will start version control on file )(-m:-
 *git remote add origin https://github.com/afrozshaik-tech/test.git (this will do only 1st time when a repo is created)
 git branch (to see what is my branch)
 git branch -M master
-
-
 git push -u origin master (now file is pushed)
+git log
