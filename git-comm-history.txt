@@ -1,0 +1,306 @@
+    1  whoami
+    2  user
+    3  host
+    4  hostname
+    5  id
+    6  users
+    7  whoami
+    8  xzfncxnznzn  
+    9  ls
+   10  chmod 700 test.txt 
+   11  ls
+   12  clear
+   13  exit
+   14  clear
+   15  ssh
+   16  cl
+   17  clear
+   18  cd D
+   19  cd Downloads/
+   20  ls
+   21  clear
+   22  ssh -i 'demo.pem' 
+   23  ssh -i 'demo.pem' ubuntu@3.27.250.224
+   24  clear
+   25  ssh -i 'demo.pem' ubuntu@3.27.250.224
+   26  chmod 400 demo.pem 
+   27  ssh -i 'demo.pem' ubuntu@3.27.250.224
+   28  users
+   29  whoami
+   30  ssh -i 'demo.pem' ubuntu@3.27.250.224
+   31  users
+   32  whoami
+   33  cat etc/passwd
+   34  sudo cat etc/passwd
+   35  sudo cat /etc/passwd
+   36  sudo cat /etc/passwd | grep ubuntu
+   37  cd ../../..
+   38  ls
+   39  cd home
+   40  ls
+   41  users
+   42  exit
+   43  clear
+   44  users
+   45  cd /home
+   46  ls
+   47  cd ubuntu/
+   48  ls
+   49  clear
+   50  users
+   51  users
+   52  ssh -i 'demo.pem' ubuntu@3.27.250.224
+   53  cd Downloads/
+   54  ssh -i 'demo.pem' ubuntu@3.27.250.224
+   55  ls
+   56  clear
+   57  cd
+   58  exit
+   59  userd
+   60  users
+   61  clear
+   62  exit
+   63  users
+   64  su ubuntu
+   65  ls
+   66  clear
+   67  users
+   68  sudo apt-get update 
+   69  sudo apt-get upgrade
+   70  sudo apt-get update && sudo apt upgrade -y
+   71  sudo apt autoremove
+   72  sudo apt-get update && sudo apt upgrade -y
+   73  clear
+   74  reboot now
+   75  reboot
+   76  sudo apt-get update && sudo apt upgrade -y
+   77  users
+   78  clear
+   79  cut -d: -f1 /etc/passwd
+   80  git
+   81  sudo apt install git
+   82  clear
+   83  git status
+   84  git branch
+   85  git checkout -b test
+   86  git checkout -b master
+   87  git branch
+   88  git checkout -b test
+   89  git checkout -b master
+   90  git branch
+   91  git checkout -b master
+   92  git status
+   93  git add test.sh
+   94  git status
+   95  git commit -m "added test.sh code"
+   96  git config --global user.email "afrozshaik.tech@gmail.com"
+   97  git config --global user.name "afrozshaik-tech"
+   98  git commit -m "added test.sh code"
+   99  git status
+  100  git commit -m "added test.sh code"
+  101  ls
+  102  mkdir git-demo
+  103  ls
+  104  cd git-demo/
+  105  touch test.txt
+  106  ls
+  107  clear
+  108  git init
+  109  . code
+  110  cd
+  111  .code
+  112  . code
+  113  code .
+  114  cd git-demo/
+  115  code .
+  116  git init
+  117  ll
+  118  clear
+  119  code .
+  120  git status 
+  121  git commit -m "added git commands"
+  122  git add test.sh
+  123  git status 
+  124  git commit -m "added git commands"
+  125  git status 
+  126  git log
+  127  ls -l
+  128  ls -la
+  129  git remote add origin https://github.com/afrozshaik-tech/test.git
+  130  git branch
+  131  git branch -M master
+  132  git push
+  133  git push -u origin master
+  134  git push
+  135  git branch -M master
+  136  git push -u origin master
+  137  git log
+  138  git status 
+  139  git push -u origin master
+  140  git branch -M master
+  141  git push
+  142  git commit -m "added git commands"
+  143  git push -u origin master
+  144  git add test.sh
+  145  git push -u origin master
+  146  git push
+  147  git commit -m "added git commands"
+  148  cd Downloads/
+  149  ls
+  150  clear
+  151  ssh -i "demo.pem" ubuntu@3.26.113.221
+  152  cd git-demo/
+  153  clear
+  154  ls
+  155  clear
+  156  git
+  157  clear
+  158  git init
+  159  ls -l
+  160  ls -al
+  161  clear
+  162  git satus
+  163  git status
+  164  vim test.sh 
+  165  vi test.sh 
+  166  sudo apt install vim
+  167  clear
+  168  vim hello.txt
+  169  git status
+  170  git add hello.txt
+  171  git status
+  172  git commit -m "1st edit"
+  173  git status
+  174  git log
+  175  git checkout -b main
+  176  git push orgin main
+  177  git push orgin main https://github.com/afrozshaik-tech/test.git
+  178  git push orgin master https://github.com/afrozshaik-tech/test.git
+  179  git push main
+  180  git push master
+  181  git push hello.txt
+  182  git push 
+  183  git branch
+  184  git checkout -b master
+  185  git checkout master
+  186  git log
+  187  git config --global user.email "afrozshaik.tech@gmail.com"
+  188  git config --global user.name "afrozshaik.tech"
+  189  git config --global user.name "afrozshaik-tech"
+  190  git push 
+  191  git push jfnls
+  192  snvkvls
+  193  v.s';mvksnlv,;sv
+  194  v.s';mvksnlv,;sv
+  195  git push 
+  196  git push
+  197  git remote add origin https://github.com/afrozshaik-tech/test.git
+  198  git push -u origin main
+  199  git init
+  200  git commit 
+  201  git commit -m "1st code"
+  202  git remote 
+  203  git push
+  204  git remote add origin https://github.com/afrozshaik-tech/test.git
+  205  git push -u origin main
+  206  rm -rf .git
+  207  git init
+  208  git remote add origin https://github.com/afrozshaik-tech/test.git
+  209  git add .
+  210  git commit
+  211  git commit -m "1st code"
+  212  git log
+  213  git push -u orgin master
+  214  git remote add origin https://github.com/afrozshaik-tech/test.git
+  215  git branch -M master
+  216  git push -u origin master
+  217  ssh-keygen -t rsa
+  218  ssh-keygen -t rsa -C "afrozshaik.tech@gmail.com"
+  219  eval "$(ssh-agent -s)"
+  220  ssh-add ~/.ssh/id_rsa
+  221  cat ~/.ssh/id_rsa.pub
+  222  git push -u origin master
+  223  clear
+  224  exit
+  225  cd git-demo/
+  226  ls
+  227  ls -al
+  228  clear
+  229  git init
+  230  git status
+  231  git checkout main
+  232  git checkout -b main
+  233  git status
+  234  git log
+  235  git status
+  236  vim test.sh 
+  237  git status
+  238  git commit -m "first commit"
+  239  git add test.sh 
+  240  git status
+  241  git branch -M main
+  242  git status
+  243  git remote add origin https://github.com/afrozshaik-tech/hello.git
+  244  git push -u origin main
+  245  git status
+  246  git push -u origin main
+  247  git remote add origin https://github.com/afrozshaik-tech/hello.git
+  248  git commit -m "first commit"
+  249  git branch -M main
+  250  git remote add origin https://github.com/afrozshaik-tech/hello.git
+  251  git push -u origin main
+  252  git checkout -b main
+  253  git checkout -b master
+  254  git branch -M master
+  255  git status
+  256  git add .
+  257  git status
+  258  git commit -m "first commit"
+  259  git init
+  260  git add .
+  261  git commit -m "1st commit"
+  262  git branch -M master
+  263  git commit -m "1st commit"
+  264  git log
+  265  git commit -m "1st commit"
+  266  git push -u origin master
+  267  vim hello.txt 
+  268  vim test.sh 
+  269  git init
+  270  git branch
+  271  git checkout -b test
+  272  git branch
+  273  vim test.sh 
+  274  git add .
+  275  git status
+  276  git commit -m "1st commited"
+  277  git push 
+  278  git push -u origin test
+  279  git commit -m "1st commited"
+  280  git log
+  281  git 0670208959218b779da2afd98fd35741a219cd68
+  282  git branch -M test
+  283  git push -u origin test
+  284  git remote add origin https://github.com/afrozshaik-tech/hello.git
+  285  git push -u origin test
+  286  git remote add origin git@github.com:afrozshaik-tech/hello.git
+  287  git push -u origin test
+  288  ls
+  289  git init
+  290  git add .
+  291  git commit -m "commit"
+  292  git remote add orgin 'https://github.com/afrozshaik-tech/hello.git'
+  293  git push -u orgin test
+  294  vim 1st.txt
+  295  git status
+  296  git add 1st.txt 
+  297  git commmit -m "1st pra"
+  298  git commit -m "1st pra"
+  299  git push -u origin test
+  300  git remote add orgin 'https://github.com/afrozshaik-tech/hello.git'
+  301  git push -u origin hello
+  302  git push -u origin 1st.txt
+  303  git push 
+  304  clear
+  305  history
+  306  history >> git-comm-history.txt
