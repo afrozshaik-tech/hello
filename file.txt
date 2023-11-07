@@ -1,0 +1,15 @@
+git init (to start version control in that folder)
+git add <file_name> (we can use . this is all files)
+git commit -m "message" (-m :- meassage)
+git add <file_name>
+git push <file_name> (push will push that file to github)
+git pull <file_name> (it will bring file from git to local pc)
+git status (this will show modified files and working dir of stage area for future)
+git log (this will show logs of commits)
+git checkout -b <branch_name> (-b to create branch)
+git switch <branch_name> (to switch between branches)
+git branch (to view what what branches are there in this repositry)
+
+==========
+git remote add origin git@github.com:username/new_repo 
+git push -u origin master
